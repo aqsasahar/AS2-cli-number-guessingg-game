@@ -1,0 +1,12 @@
+{
+  "name": "as2-cli-number-guessingg-game",
+  "version": "1.0.0",
+  "description": "THIS is an amazing game",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
